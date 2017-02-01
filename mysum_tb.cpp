@@ -2,7 +2,7 @@
  *
  */
 // modificacion 1 en local
-// modificacion 2 en local. segundo commit
+
 #include <stdio.h>
 #include "mysum.h"
 
